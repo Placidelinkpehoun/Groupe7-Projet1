@@ -52,19 +52,13 @@ Ouvrir le projet avec Unity 2018.4.19f1.
 
 Lancer la scène principale et tester l'expérience en VR.
 
-**Crédits**
-
-Modélisation 3D : [Nom de la personne ayant créé le labyrinthe et objets 3D]
-
-Programmation & VR : [Nom de la personne ayant géré les interactions et la mécanique VR]
-
 **Licence**
 
 Ce projet est sous licence [Nom de la licence, ex: MIT, GPL...].
 
 **Liens utiles**
 
-Documentation Google VR
+Documentation Google VR : https://developers.google.com/vr
 
-Unity 2018.4.19f1
+Unity 2018.4.19f1 : https://unity.com/fr/releases/editor/archive
 
