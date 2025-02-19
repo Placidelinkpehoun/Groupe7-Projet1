@@ -45,7 +45,7 @@ Clonage et Lancement
 
 Cloner le dépôt :
 
-git clone https://github.com/utilisateur/nom-du-projet.git
+git clone [https://github.com/utilisateur/nom-du-projet.git](https://github.com/Placidelinkpehoun/Groupe7-Projet1.git)
 cd nom-du-projet
 
 Ouvrir le projet avec Unity 2018.4.19f1.
